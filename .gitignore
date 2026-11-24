@@ -1,0 +1,5 @@
+kubeconfig*
+*.htpasswd
+*.env
+pull-secret*
+kubeadmin-password*
